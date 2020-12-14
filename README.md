@@ -2,6 +2,8 @@
 
 Start kit for implementing the word guessing game lab using Occurrent, Spring Boot and MongoDB. 
 
+The purpose of this lab is to build the pure domain model for the "Word Guessing Game".
+
 ### Instructions
 
 Instructions should be given during the online presentation  
